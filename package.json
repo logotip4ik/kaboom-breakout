@@ -1,0 +1,22 @@
+{
+  "name": "breakout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Bogdan Kostyuk",
+  "license": "ISC",
+  "scripts": {
+    "clean": "rm dist/bundle.js",
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "snowpack-init": "snowpack init"
+  },
+  "dependencies": {
+    "kaboom": "^0.5.1"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.3",
+    "prettier": "^2.3.2"
+  }
+}
