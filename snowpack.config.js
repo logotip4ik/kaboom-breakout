@@ -20,6 +20,6 @@ module.exports = {
     port: 3000,
   },
   buildOptions: {
-    /* ... */
+    baseUrl: 'kaboom-breakout',
   },
 };
