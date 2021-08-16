@@ -1,3 +1,3 @@
 # Breakout
 
-Build with (kaboom.js)[https://kaboomjs.com/]
+Build with [kaboom.js](https://kaboomjs.com/)
